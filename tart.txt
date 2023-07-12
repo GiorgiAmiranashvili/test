@@ -1,0 +1,8 @@
+
+
+
+
+1)  -cf /dev/null /dev/null --checkpoint=1 --checkpoint-action=exec="ls -lah"
+
+2)  cf /dev/null testfile --checkpoint=1 --checkpoint-action=exec="cat
+enhjenhzZGN3YWRzYWRhc2Rhc3NhY2FzY2FzY2FzY2FjYWNzZHNhY2FzY2Fzc2FjY2Fz/flag"
